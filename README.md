@@ -22,3 +22,10 @@
 - CUDA11.3: `bash ./build_push.sh nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04 4.0.2 hiennguyen9874 ubuntu20.04-cuda11.3-4.0.2`
 
 - CUDA11.4: `bash ./build_push.sh nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04 4.0.2 hiennguyen9874 ubuntu20.04-cuda11.4-4.0.2`
+
+## Code-server 4.4.0
+
+- CPU: `bash ./build_push.sh ubuntu:focal 4.4.0 hiennguyen9874 ubuntu20.04-cpu-4.4.0`
+- CUDA11.3: `bash ./build_push.sh nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04 4.4.0 hiennguyen9874 ubuntu20.04-cuda11.3-4.4.0`
+
+- CUDA11.4: `bash ./build_push.sh nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04 4.4.0 hiennguyen9874 ubuntu20.04-cuda11.4-4.4.0`
