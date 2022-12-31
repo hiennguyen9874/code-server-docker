@@ -31,3 +31,7 @@
 - CUDA11.4: `bash ./build_push.sh nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04 4.4.0 hiennguyen9874 ubuntu20.04-cuda11.4-4.4.0`
 
 - Deepstream:6.0.1: `bash ./build_push.sh hiennguyen9874/deepstream:deepstream_6.0.1-devel 4.4.0 hiennguyen9874 ubuntu20.04-deepstream.6.0.1-4.4.0`
+
+## Code-server 4.9.1
+
+- Deepstream:6.1.1: `bash ./build_push.sh hiennguyen9874/deepstream:deepstream_6.1.1-devel 4.9.1 hiennguyen9874 ubuntu20.04-deepstream.6.1.1-4.9.1`
