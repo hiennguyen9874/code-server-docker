@@ -33,5 +33,5 @@
 - Deepstream:6.0.1: `bash ./build_push.sh hiennguyen9874/deepstream:deepstream_6.0.1-devel 4.4.0 hiennguyen9874 ubuntu20.04-deepstream.6.0.1-4.4.0`
 
 ## Code-server 4.9.1
-
+- CPU: `bash ./build_push.sh ubuntu:focal 4.9.1 hiennguyen9874 ubuntu20.04-cpu-4.9.1`
 - Deepstream:6.1.1: `bash ./build_push.sh hiennguyen9874/deepstream:deepstream_6.1.1-devel 4.9.1 hiennguyen9874 ubuntu20.04-deepstream.6.1.1-4.9.1`
