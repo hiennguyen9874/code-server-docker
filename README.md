@@ -35,3 +35,7 @@
 ## Code-server 4.9.1
 - CPU: `bash ./build_push.sh ubuntu:focal 4.9.1 hiennguyen9874 ubuntu20.04-cpu-4.9.1`
 - Deepstream:6.1.1: `bash ./build_push.sh hiennguyen9874/deepstream:deepstream_6.1.1-devel 4.9.1 hiennguyen9874 ubuntu20.04-deepstream.6.1.1-4.9.1`
+
+## Code-server 4.17.1
+- CPU: `bash ./build_push.sh ubuntu:focal 4.17.1 hiennguyen9874 ubuntu20.04-cpu-4.17.1`
+- Deepstream 6.3: `bash ./build_push.sh nvcr.io/nvidia/deepstream:6.3-gc-triton-devel 4.17.1 hiennguyen9874 ubuntu20.04-deepstream.6.3-gc-triton-devel-4.17.1`
