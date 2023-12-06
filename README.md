@@ -40,3 +40,6 @@
 - CPU: `bash ./build_push.sh ubuntu:focal 4.17.1 hiennguyen9874 ubuntu20.04-cpu-4.17.1`
 - TensorRT 23.03: `bash ./build_push.sh nvcr.io/nvidia/tensorrt:23.03-py3 4.17.1 hiennguyen9874 ubuntu20.04-tensorrt.23.03-py3-4.17.1`
 - Deepstream 6.3: `bash ./build_push.sh nvcr.io/nvidia/deepstream:6.3-gc-triton-devel 4.17.1 hiennguyen9874 ubuntu20.04-deepstream.6.3-gc-triton-devel-4.17.1`
+
+## Code-server 4.19.1
+- Deepstream 6.3: `bash ./build_push.sh nvcr.io/nvidia/deepstream:6.3-gc-triton-devel 4.19.1 hiennguyen9874 ubuntu20.04-deepstream.6.3-gc-triton-devel-4.19.1`
